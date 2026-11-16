@@ -6,6 +6,6 @@
  * Never put an API token, password or private key in this file.
  */
 window.DATE_ROULETTE_SETTINGS = Object.freeze({
-  UMAMI_WEBSITE_ID: 'PASTE_YOUR_UMAMI_WEBSITE_ID_HERE',
+  UMAMI_WEBSITE_ID: 'b993e632-7423-4789-a500-b443fc64bc15',
   UMAMI_SCRIPT_URL: 'https://cloud.umami.is/script.js'
 });
